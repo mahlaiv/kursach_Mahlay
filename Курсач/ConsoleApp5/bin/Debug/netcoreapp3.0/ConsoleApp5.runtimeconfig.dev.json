@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chern\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chern\\.nuget\\packages"
+    ]
+  }
+}
